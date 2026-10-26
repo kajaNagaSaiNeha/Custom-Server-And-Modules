@@ -1,2 +1,4 @@
-# Custom-Server-And-Modules
-Creating a custom HTTP server using Node.js and exploring the built-in http, os, path, and events modules. Demonstrates server creation, operating system information retrieval, path handling, and custom event management.
+# Experiment 9
+Skill Development Course (Node JS / React JS / Django) - Lab Manual
+
+See the .docx file in this folder for the aim, steps, code and output.
